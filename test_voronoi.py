@@ -1,0 +1,12 @@
+[
+  "tests/test_voronoi.py::TestVoronoiCells::test_directed_inward",
+  "tests/test_voronoi.py::TestVoronoiCells::test_directed_unweighted",
+  "tests/test_voronoi.py::TestVoronoiCells::test_directed_weighted",
+  "tests/test_voronoi.py::TestVoronoiCells::test_isolates",
+  "tests/test_voronoi.py::TestVoronoiCells::test_multidigraph_unweighted",
+  "tests/test_voronoi.py::TestVoronoiCells::test_multidigraph_weighted",
+  "tests/test_voronoi.py::TestVoronoiCells::test_multigraph_unweighted",
+  "tests/test_voronoi.py::TestVoronoiCells::test_multigraph_weighted",
+  "tests/test_voronoi.py::TestVoronoiCells::test_undirected_unweighted",
+  "tests/test_voronoi.py::TestVoronoiCells::test_undirected_weighted"
+]
